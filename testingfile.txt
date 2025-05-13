@@ -1,0 +1,1 @@
+A new file, Today I am using git via VSCODE and trying out evvery commands.
